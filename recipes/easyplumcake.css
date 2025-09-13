@@ -1,0 +1,16 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f8f8f8;
+    margin: ;
+}
+
+h1{
+    text-align: center;
+    color: #C07A3D;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.cake{
+    margin: 30px auto;
+    display: block;
+}

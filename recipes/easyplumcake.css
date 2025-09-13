@@ -3,8 +3,13 @@ body{
     background-color: #fafafa;
     color: #333;
     line-height: 1.6;
-    margin: 0px;
+    margin: 20px;
     padding: 0px;
+}
+
+.cake{
+    margin: 30px auto;
+    display: block;
 }
 
 h1{
@@ -19,7 +24,11 @@ h1{
     padding:1rem;
     background-color: #fff;
 }
-.cake{
-    margin: 30px auto;
-    display: block;
+
+section{
+    margin-bottom: 2rem;
+}
+
+#ingredients ul, #steps ol{
+    padding-left: 1.5rem;
 }
